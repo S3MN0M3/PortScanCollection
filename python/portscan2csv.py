@@ -1,7 +1,7 @@
 # Python 3
 """
 Run with:
-  python3 portscan2csv.py www.devdungeon.com scan_results.csv
+  python3 portscan2csv.py www.google.com scan_results.csv
 """
 import concurrent
 import csv
